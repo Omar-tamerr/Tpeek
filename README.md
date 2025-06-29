@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 What is Tpeek?
+## 🌟 What is Tpeek?
 
 **Tpeek** is a professional-grade, Python-powered network scanning tool built on top of Nmap.  
 It is designed for penetration testers, red teamers, and network admins to quickly identify open ports, detect OS types, and enumerate common services — all with real-time terminal feedback and clean output.
@@ -16,12 +16,12 @@ It is designed for penetration testers, red teamers, and network admins to quick
 
 - 🔍 **Full TCP Scan** (all ports + version detection)
 - 🥷 **Stealth SYN Scan** (`-sS`)
-- 🎯 **Specific Port Scan**
+- 🌟 **Specific Port Scan**
 - 🧠 **OS Detection**
 - 🚀 **Top 100 Ports Scan**
 - 🛡️ **Vulnerability Enumeration for SMB, SSH, LDAP**
 - 🎨 **Color-coded live output**
-- 🧾 **Saved scan results with timestamps**
+- 🗒️ **Saved scan results with timestamps**
 - ✨ **Minimalist CLI UI**
 
 ---
@@ -67,10 +67,10 @@ top_ports_10.10.10.10_2025-05-24_19-30-00.txt
 ## 📸 Screenshots
 
 ### 🔧 Menu Interface
-![intro.png](./intro.png)
+![Tool.png](./Tool.png)
 
 ### ✅ Vulnerability Scan Output
-![smbscanned.png](./smbscanned.png)
+![smb-scanned.png](./smb-scanned.png)
 
 ### 📋 Top Ports Example Output
 ![output.png](./output.png)
