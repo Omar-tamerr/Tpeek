@@ -69,9 +69,6 @@ top_ports_10.10.10.10_2025-05-24_19-30-00.txt
 ### 🔧 Menu Interface
 ![Menu Interface](./Tool.png)
 
-### 📊 Top 100 Ports Scan Output
-![Top Ports Scan Output](./smb-scanned.png)
-
 ### 📋 Top Ports Example Output
 ![Top Ports Output](./output.png)
 
