@@ -67,13 +67,13 @@ top_ports_10.10.10.10_2025-05-24_19-30-00.txt
 ## 📸 Screenshots
 
 ### 🔧 Menu Interface
-![Tool.png](./Tool.png)
+![Menu Interface](./Tool.png)
 
 ### ✅ Vulnerability Scan Output
-![smb-scanned.png](./smb-scanned.png)
+![Vulnerability Scan Output](./smb-scanned.png)
 
 ### 📋 Top Ports Example Output
-![output.png](./output.png)
+![Top Ports Output](./output.png)
 
 ---
 
