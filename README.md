@@ -1,14 +1,14 @@
 # Tpeek
 
 🕵️ **Tpeek** — Tactical Network Peek Tool  
-🔧 Developed by: **OmarTamer0** (Egypt)
+🔧 Developed by: **[Omar Tamer](https://github.com/Omar-tamerr)** (Egypt)
 
 ---
 
 ## 🌟 What is Tpeek?
 
-**Tpeek** is a professional-grade, Python-powered network scanning tool built on top of Nmap.  
-It is designed for penetration testers, red teamers, and network admins to quickly identify open ports, detect OS types, and enumerate common services — all with real-time terminal feedback and clean output.
+**Tpeek** is a menu-driven Python wrapper around Nmap.  
+It helps penetration testers, red teamers and network admins run the scans they use most (full TCP, stealth SYN, top ports, OS detection, service vulnerability scripts) without remembering every flag, with live color-coded output and timestamped results saved for the report.
 
 ---
 
@@ -86,17 +86,24 @@ sudo apt install nmap
 
 ---
 
+## ⚖️ Authorized Use Only
+
+Use this tool only on systems you own or have **written permission** to test, such as a
+signed penetration-testing scope or your own lab. Unauthorized access to computer systems
+is illegal. The author accepts no liability for misuse.
+
+---
+
 ## 👑 Author
 
-**OmarTamer0**  
-🔗 TryHackMe: [https://tryhackme.com/p/OmarTamer0](https://tryhackme.com/p/OmarTamer0)  
+**Omar Tamer** · [GitHub](https://github.com/Omar-tamerr) · [LinkedIn](https://www.linkedin.com/in/omar-tamer-ot/) · [TryHackMe](https://tryhackme.com/p/OmarTamer0)  
 🌍 Egypt
 
 ---
 
 ## 📜 License
 
-MIT License — free to use, fork, and improve.
+MIT License — see [LICENSE](LICENSE).
 
 ---
 
